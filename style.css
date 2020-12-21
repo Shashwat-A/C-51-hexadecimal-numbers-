@@ -1,0 +1,40 @@
+h2{
+    color: red;
+}
+
+p{
+    color: purple;
+}
+
+a{
+    border: solid;
+}
+
+.header{
+    border: solid;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: solid;
+    color: red;
+}
+
+.item{
+    border: solid;
+    color: purple;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #808080;
+}
